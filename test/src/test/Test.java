@@ -10,5 +10,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, word.");
 	}
+	
+	private static void test() {}
 
 }
