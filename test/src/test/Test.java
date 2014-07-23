@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("Hello, word.");
 	}
 	
-	private static void test() {}
+	private static void test() {
+		System.out.println("testtt");
+	}
 
 }
